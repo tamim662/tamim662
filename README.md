@@ -1,11 +1,11 @@
 ### Hi there 👋
 <!-- Header -->
-<img alt="Hello, I'm Tamim. " src="https://raw.githubusercontent.com/tamim662/tamim662/master/images/git_header.gif">
+#### I am Tamim
 
 <!-- Current Projects -->
 *The projects I am currently working on:*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=fast.ai)](https://github.com/tamim662/course-v3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=course-v3)](https://github.com/tamim662/course-v3)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Pattern-Recognition-Lab)](https://github.com/tamim662/Pattern-Recognition-Lab)
 <br />
 
