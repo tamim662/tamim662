@@ -5,8 +5,8 @@
 <!-- Current Projects -->
 *The projects I am currently working on:*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=course-v3)](https://github.com/tamim662/course-v3)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Pattern-Recognition-Lab)](https://github.com/tamim662/Pattern-Recognition-Lab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Capstone)](https://github.com/tamim662/Capstone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=xml2yolo)](https://github.com/tamim662/xml2yolo)
 <br />
 
 
