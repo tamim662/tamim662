@@ -5,8 +5,8 @@
 <!-- Current Projects -->
 *The projects I am currently working on:*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Capstone)](https://github.com/tamim662/Capstone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=xml2yolo)](https://github.com/tamim662/xml2yolo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Yolo-Fish)](https://github.com/tamim662/Yolo-Fish)
+
 <br />
 
 
