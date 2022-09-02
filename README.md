@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!-- Header -->
-#### I am Tamim
+#### I am Tamim. I am a software Engineer. I am now focusing on microservice to learn and build a large-scale system.
 
 <!-- Current Projects -->
-<!-- *The projects I am currently working on:*
+<!-- *The research projects I am currently working on -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Yolo-Fish)](https://github.com/tamim662/Yolo-Fish)
 
@@ -13,7 +13,7 @@
 <!-- Language and Tools -->
 *Languages and Tools:*  
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+<code><img height="45" src="https://img.icons8.com/color/50/000000/java"/>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -39,10 +39,10 @@
 </div>
 
 
-<!-- Visitor Count 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
-[![HitCount](http://hits.dwyl.com/oii-nasif/oii-nasif.svg)](http://hits.dwyl.com/oii-nasif/oii-nasif)
- -->
+<!-- Visitor Count --> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamim662.tamim662)
+[![HitCount](https://hits.dwyl.com/tamim662/tamim662.svg)](http://hits.dwyl.com/tamim662/tamim662)
+
 <!--
 **tamim662/tamim662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
