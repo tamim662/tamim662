@@ -4,11 +4,9 @@
 
 <!-- Current Projects -->
 <!-- *The research projects I am currently working on:
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Yolo-Fish)](https://github.com/tamim662/Yolo-Fish)
 
 <br />
- -->
 
 <!-- Language and Tools -->
 *Languages and Tools:*  
