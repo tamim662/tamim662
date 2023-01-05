@@ -1,6 +1,9 @@
 <!-- Header -->
-### Hi there 👋
-I am Tamim. Currently I am working as a backend developer. I am always excited to explore new technologies and look forward to working in the AI field.
+- 👋 Hi, I’m Tamim 
+- 🔭 I’m currently working on Spring Boot framework
+- 🌱 I’m currently learning Software Engineering 
+- 👀 I’m interested in Backend Development & Machine Learning
+- 👯 I’m looking to collaborate on AI based Research
 
 <!-- Current Projects -->
 **The projects I am currently developing a complete backend system of HRM for my company's own using purpose.**
