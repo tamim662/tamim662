@@ -21,7 +21,7 @@
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
-<code><img height="45" src="https://img.icons8.com/color/50/000000/java"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/tamim662/Hosted-Files/main/tech_icon/java_48.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/tamim662/Hosted-Files/main/tech_icon/spring_boot.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
