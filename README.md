@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on AI based Research
 
 <!-- Current Projects -->
-**The projects I am currently developing a complete backend system of HRM for my company's own using purpose.**
+**Currently expanding my expertise by practicing DevOps to bridge the gap between code and operations.**
 
 
 
