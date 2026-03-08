@@ -1,9 +1,13 @@
-<!-- Header -->
-- 👋 Hi, I’m Tamim 
-- 🔭 I’m currently working on Spring Boot framework
-- 🌱 I’m currently learning Software Engineering 
-- 👀 I’m interested in Backend Development & Machine Learning
-- 👯 I’m looking to collaborate on AI based Research
+<!-- About me -->
+
+<h1 align="center">Hi! I am Tamim.</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&duration=1800&center=true&vCenter=true&width=1100&lines=I+am+a+Software+Engineer;Currently+exploring+DevOps+pipelines+and+cloud+infrastructure+using+AWS.;Enjoy+turning+complex+systems+into+clean%2C+efficient+solutions.;A+curious+mind+and+lifelong+explorer+of+the+world." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Java Backend Developer</b>
+</p>
 
 <!-- Current Projects -->
 **Currently expanding my expertise by practicing DevOps to bridge the gap between code and operations.**
