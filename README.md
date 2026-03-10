@@ -51,6 +51,9 @@
 <img align="center" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=tamim662&"/>
 </p>
 
+<p align="center">
+<img src="https://metrics.lecoq.io/tamim662?template=classic&base=metadata&repositories=100&repositories.forks=true&repositories.stars=true&config.timezone=Australia/Sydney" />
+</p>
 
 <!-- Contact Me -->
 **<div align='center'>contact me**
