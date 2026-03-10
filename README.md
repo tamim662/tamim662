@@ -8,6 +8,7 @@
 <p align="center">
   <b>Java Backend Developer</b>
 </p>
+<br>
 
 ## A little bit about me
 
@@ -16,9 +17,10 @@
 ✍️ &nbsp;In my free time, I enjoy walking through quiet national parks, driving along endless roads far from the city, and catching sunsets by the sea.\
 ✉️ &nbsp;You can drop me an email at aamuksit123@gmail.com, if you're looking for a **Java Backend Develope**r. I'm also open to working on **Python and DevOps projects.**
 
+<br>
 
 <!-- Current Projects -->
-**Currently expanding my expertise by practicing DevOps to bridge the gap between code and operations.**
+**Currently collaborating on a research project on AI-based bushfire detection in Australia.**
 
 
 
