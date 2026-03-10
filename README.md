@@ -9,6 +9,14 @@
   <b>Java Backend Developer</b>
 </p>
 
+## A little bit about me
+
+🎓 &nbsp;I'm currently ding my master in IT in Sydney, Australia. \
+🌱 &nbsp;I'm on track with learning more about DevOps and Software Architecture along with Backend Development.\
+✍️ &nbsp;In my free time, I enjoy walking through quiet national parks, driving along endless roads far from the city, and catching sunsets by the sea.\
+✉️ &nbsp;You can drop me an email at aamuksit123@gmail.com, if you're looking for a **Java Backend Develope**r. I'm also open to working on **Python and DevOps projects.**
+
+
 <!-- Current Projects -->
 **Currently expanding my expertise by practicing DevOps to bridge the gap between code and operations.**
 
@@ -33,7 +41,7 @@
 <code><img height="45" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
 <code><img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png"></code>
 
-
+  
 #### Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamim662&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
