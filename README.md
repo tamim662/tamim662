@@ -10,7 +10,7 @@
 </p>
 <br>
 
-## A little bit about me
+### A little bit about me
 
 🎓 &nbsp;I'm currently ding my master in IT in Sydney, Australia. \
 🌱 &nbsp;I'm on track with learning more about DevOps and Software Architecture along with Backend Development.\
@@ -24,14 +24,14 @@
 
 
 
-**Featured projects:**
+### Featured projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=YOLO-Fish)](https://github.com/tamim662/YOLO-Fish)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Face-Mask-Detector)](https://github.com/tamim662/Face-Mask-Detector)
 
 
 <!-- Language and Tools -->
-**Languages and Tools:**  
+### Languages and Tools:
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
@@ -44,7 +44,7 @@
 <code><img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png"></code>
 
   
-#### Github Stats
+### Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamim662&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim662&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
