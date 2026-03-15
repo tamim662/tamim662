@@ -15,7 +15,7 @@
 🎓 &nbsp;I'm currently ding my master in IT in Sydney, Australia. \
 🌱 &nbsp;I'm on track with learning more about DevOps and Software Architecture along with Backend Development.\
 ✍️ &nbsp;In my free time, I enjoy walking through quiet national parks, driving along endless roads far from the city, and catching sunsets by the sea.\
-✉️ &nbsp;You can drop me an email at aamuksit123@gmail.com, if you're looking for a **Java Backend Develope**r. I'm also open to working on **Python and DevOps projects.**
+✉️ &nbsp;You can drop me an email at aamuksit123@gmail.com, if you're looking for a **Java Backend Develope**r. I'm also open to working on **Python and DevOps roles.**
 
 <br>
 
