@@ -27,7 +27,7 @@
 ### Featured projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=YOLO-Fish)](https://github.com/tamim662/YOLO-Fish)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=Face-Mask-Detector)](https://github.com/tamim662/Face-Mask-Detector)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=ai-job-tracker)](https://github.com/tamim662/ai-job-tracker)
 
 
 <!-- Language and Tools -->
