@@ -1,17 +1,14 @@
 <!-- About me -->
-
 <h1 align="center">Hi! I am Tamim.</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&duration=1800&center=true&vCenter=true&width=1100&lines=I+am+a+Software+Engineer;Currently+exploring+DevOps+pipelines+and+cloud+infrastructure+using+AWS.;Enjoy+turning+complex+systems+into+clean%2C+efficient+solutions.;A+curious+mind+and+lifelong+explorer+of+the+world." alt="Typing SVG" />
 </p>
-
 <p align="center">
   <b>Java Backend Developer</b>
 </p>
 <br>
 
 ### A little bit about me
-
 🎓 &nbsp;I'm currently doing my master in IT in Sydney, Australia. \
 🌱 &nbsp;I'm on track with learning more about DevOps and Software Architecture along with Backend Development.\
 ✍️ &nbsp;In my free time, I enjoy walking through quiet national parks, driving along endless roads far from the city, and catching sunsets by the sea.\
@@ -22,17 +19,12 @@
 <!-- Current Projects -->
 **Currently collaborating on a research project on AI-based bushfire detection in Australia.**
 
-
-
 ### Featured projects:
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=YOLO-Fish)](https://github.com/tamim662/YOLO-Fish)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamim662&repo=ai-job-tracker)](https://github.com/tamim662/ai-job-tracker)
 
-
 <!-- Language and Tools -->
 ### Languages and Tools:
-
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/tamim662/Hosted-Files/main/tech_icon/java_48.png"></code>
@@ -43,7 +35,6 @@
 <code><img height="45" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"></code>
 <code><img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png"></code>
 
-  
 ### Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamim662&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
@@ -51,6 +42,11 @@
 <img align="center" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=tamim662&"/>
 </p>
 
+<!-- 3D Contribution Graph -->
+### My Contributions in 3D
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
 
 <!-- Contact Me -->
 **<div align='center'>contact me**
@@ -71,4 +67,3 @@
 <!--
 **tamim662/tamim662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- 
